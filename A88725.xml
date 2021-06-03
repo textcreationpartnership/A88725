@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The last great and blovdy fight in Ireland on Wednesday last, being the 29. of August, 1649. between the Marq. of Ormonds forces, and the Lord Governour Cromwels, upon his Lordships advance with his whole army of horse and foot from the city of Dublin. With the particulars thereof, the manner of their engagement, the wounding of Lieut. Gen. Jones, and a list of the officers and souldiers, killed, wounded, and taken prisoners. Also, the Lord Governour Cromwels letter to the Parliament of England, and his declaration and resolution touching Ireland.</title>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88725</idno><idno type="EEBO-CITATION">99865348</idno>
+  <idno type="VID">165379</idno>
+  <idno type="EEBO-PROQUEST">2248534775</idno>
+  
+            <idno type="STC">Wing L486</idno>
+            <idno type="STC">Thomason E572_21</idno>
+            <idno type="STC">ESTC R206173</idno>
+            <idno type="PROQUEST">99865348</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99865348e"/>
+            <note>(EEBO-TCP ; phase 2, no. A88725)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165379)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 88:E572[21])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The last great and blovdy fight in Ireland on Wednesday last, being the 29. of August, 1649. between the Marq. of Ormonds forces, and the Lord Governour Cromwels, upon his Lordships advance with his whole army of horse and foot from the city of Dublin. With the particulars thereof, the manner of their engagement, the wounding of Lieut. Gen. Jones, and a list of the officers and souldiers, killed, wounded, and taken prisoners. Also, the Lord Governour Cromwels letter to the Parliament of England, and his declaration and resolution touching Ireland.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Williamson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>the 4. of September, 1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Pages 4 and 5 contain: The declaration of the Lord Governor Cromwell in Ireland. Signed: O. Cromwell. Dublin-Castle 23. of August. 1649. In which Cromwell proclaims the severest punishment for aiding the mayor, officers, or minister of justice of Dublin.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Cromwell, Oliver --  1599-1658 --  Early works to 1800.</term>
+               <term type="personal_name">Ormonde, James Butler, --  Duke of, 1610-1688 --  Early works to 1800.</term>
+               <term type="personal_name">Jones, Michael, d. 1649 --  Early works to 1800.</term>
+               <term type="corporate_name">England and Wales. --  Army --  Early works to 1800.</term>
+               <term type="geographic_name">Ireland --  History --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-02 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2015-02 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165379:1"/>
+            <p>The last great and BLOVDY FIGHT <hi>IN</hi> IRELAND <hi>ON Wednesday</hi> last, being the 29. of <hi>August,</hi> 1649. between the Marq. of <hi>Ormonds</hi> Forces, and the Lord Governour <hi>Cromwels,</hi> upon his Lordships advance with his whole Army of Horse and Foot from the City of <hi>Dublin.</hi>
+            </p>
+            <p>
+               <hi>WITH</hi> The particulars thereof, the manner of their engagement, the wounding of Lieut. Gen. <hi>Jones,</hi> and a List of the Officers and Souldiers, killed, wounded, and taken prisoners.</p>
+            <p>
+               <hi>ALSO,</hi> The Lord Governour <hi>Cromwels</hi> Letter to the Parliament of <hi>England,</hi> and his Declaration and Resolution touching <hi>IRELAND.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Robert Williamson,</hi> the 4. of September, 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <pb facs="tcp:165379:2"/>
+                  <pb n="1" facs="tcp:165379:2"/>
+                  <head>
+                     <figure>
+                        <head>C R</head>
+                        <figDesc>central circle flanked by the English lion on the left and the Scottish unicorn on the right and containing the initials of King Charles, all of these figures enclosed within a rectangle flanked by angel on the left and right</figDesc>
+                     </figure>
+                  </head>
+                  <head>A GREAT FIGHT IN IRELAND Between The Lord Governour <hi>Cromwels</hi> Forces, and the Mar. of <hi>Ormonds,</hi> upon the advance of the Parl. Army from the City of <hi>Dublin</hi> towards <hi>Drog<g ref="char:EOLhyphen"/>hedah,</hi> with a lift of the prisoners killed and taken.</head>
+                  <opener>
+                     <salute>Right Honourable,</salute>
+                  </opener>
+                  <p>
+                     <seg rend="decorInit">U</seg>Pon Wednesday last, being the 29. of <hi>August,</hi> the Lord Governour <hi>Cromwell</hi> (with his whole Army of horse and foot) took the field, he marched forth of the City with Trumpets sounding,
+<pb n="2" facs="tcp:165379:3"/>Drums beating, and Colours flying; and about foure miles from the City, they drew up into a body, where the most facile meanes were used by the Officers, for the safe marching and prefervation of the Souldiers, and after severall speeches made by the Commanders in chief, at the head of each Troop and Company, in reference to the great work in hand, a selected party of horse were drawn forth, under the command of co<g ref="char:EOLhyphen"/>lonell <hi>Reynolds,</hi> who were to march three miles di<g ref="char:EOLhyphen"/>stance from the Van of the Army, for a more timely discovery of the enemy.</p>
+                  <p>After few hours, the whole Body drew off in a Re<g ref="char:EOLhyphen"/>gimentary way from the place of Randezvouz, and quartered all wednesday night about six miles distant from the City.</p>
+                  <p>The next morning the said Col. <hi>Reynolds</hi> (by Orders from the Lord Governour <hi>Cromwell</hi>) and Lieutenant Gen. <hi>Jones,</hi> advanced with one thousand of the choi<g ref="char:EOLhyphen"/>sest horse within five mites of <hi>Droghedah</hi> (where the chiefest strength of the enemy then lay) with a full resolution, to beat up the Out quarters of the Mar<g ref="char:EOLhyphen"/>quesse of <hi>Ormond;</hi> but by the vigilancy of his Scouts, our party were discovered, who soon gave the Capt. of the Guard notice of their neer approach, and al<g ref="char:EOLhyphen"/>larum'd the rest, in the parts adjacent; insomuch, that each man endeavoured to put himself in a readinesse to receive our party, and accordingly body'd, which being done, both parties came within sight of each o<g ref="char:EOLhyphen"/>ther; the Scouts met, and upon each firing wheeled off; at la<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>st, the Forlornes were drawn forth, who met each other upon a full career, but fired with great wisdome and moderation, and upon engagement dis<g ref="char:EOLhyphen"/>puted
+<pb n="3" facs="tcp:165379:3"/>the place with most admired gallantry, which by reason of the sudden inflamation of such magna<g ref="char:EOLhyphen"/>nimous Spirits, the Victory seemed dubious, each man striving for Conquest; till at last, both the bodyes engaged, and after a most sharp and desperate encoun<g ref="char:EOLhyphen"/>ter, the honour of the action fell to Lieut. Gen. <hi>Jones,</hi> and Colenell <hi>Reynolds,</hi> for after one hours dispute, the enemy wheeled, deserted engagement, and with what haste possible they could, made towards <hi>Drogheda,</hi> up<g ref="char:EOLhyphen"/>on which dishonourable falling off, our horse fell in upon the Rear of them, killed many, and took divers prisoners, with the losse of 30. men.</p>
+                  <p>Of the Enemies side, it is said there fell three for one, which according to the ensuing List, are as fol<g ref="char:EOLhyphen"/>loweth.
+<list>
+                        <head>A List of the prisoners killed wounded and taken in the last Engagement neer <hi>Drogheda.</hi>
+                        </head>
+                        <item>
+                           <list>
+                              <head>Killed.</head>
+                              <item>Two Captains of Horse.</item>
+                              <item>One Lieutenant.</item>
+                              <item>Three Cornets.</item>
+                              <item>Seven Corporals.</item>
+                              <item>200 Tooopers.</item>
+                           </list>
+                        </item>
+                        <item>
+                           <list>
+                              <head>Wounded and taken pri<g ref="char:EOLhyphen"/>soners.</head>
+                              <item>Major Butler, Nephew to the Marquesse of Or<g ref="char:EOLhyphen"/>mond.</item>
+                              <item>Major William Gerrard.</item>
+                              <item>Captain Dillon.</item>
+                              <item>Captain Francklin.</item>
+                              <item>Captain Oneal.</item>
+                              <item>Cornet Fitz-James.</item>
+                              <item>Cornet Kembolt.</item>
+                              <item>Cornet Armstrong.</item>
+                              <item>Corporall Williams,</item>
+                              <item>Corporall Mackart,</item>
+                              <item>80 Troopers.</item>
+                              <item>200. horse, pistols &amp; arms.</item>
+                           </list>
+                        </item>
+                     </list>
+                  </p>
+                  <p>In which conflict, some report Lieu. Gen. <hi>Jones</hi> to be wounded, but not mortall.</p>
+                  <closer>
+                     <dateline>Dublin <date>31. August, 1649.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="proclamation_of_the_Commonwealth">
+                        <pb n="4" facs="tcp:165379:4"/>
+                        <head>The Declaration of the Lord Governor Cromwell in <hi>Ireland.</hi>
+                        </head>
+                        <p>WHereas God Almighty, in the aboundance of his Mercy and goodnesse, hath been pleased from time to time to vouchsafe Preservation and de<g ref="char:EOLhyphen"/>liverance unto this City from the rage and cruelty of a bloudy Enemy, and in a more speciall manner to manifest his numerous Hrmy of Rebels encampt a<g ref="char:EOLhyphen"/>bout this City; which continuall mercies do justly call for a thankfull acknowledgment of his gracious goodnesse, by a sincere and earnest endeavour, as well to maintain the honour of his most holy Name, as to oppose and take away such offences, being contrary and displeasing to his divine will: And yet notwith<g ref="char:EOLhyphen"/>standing, by the frequent practise of prophane swea<g ref="char:EOLhyphen"/>ring, cursing and drunkennesse, his holy name is dayly dishonoured and blasphemed, to the scandall and grief of all good men, although the said offences are pro<g ref="char:EOLhyphen"/>hibited by the Law of God, the known Laws of this Land, and the known Articles of War, whereby wee have just cause to sear, that without a through Refor<g ref="char:EOLhyphen"/>mation of such sins, he may deservedly break off the continuance of his wonted loving kindnesse towards this place, and give us over to destruction.</p>
+                        <pb n="5" facs="tcp:165379:4"/>
+                        <p> And for as much as it is a duty required at the hand of the Magistrate, who ought not to bear the sword in<g ref="char:EOLhyphen"/>vain, but to improve the power committed into his hand for the punnishment, prevention of Offences; We therefore sadly taking the premises into conside<g ref="char:EOLhyphen"/>ration, and resolving that the said Offences be strictly proceeded against and punnisht according to the ut<g ref="char:EOLhyphen"/>most severity and rigour of Law, do by this our Pro<g ref="char:EOLhyphen"/>clamation strictly charge and comand, that as well the Major of this City, and other Officers and Ministers of Justice in the same City, whom the same shall concern; As also that all Officers of the army do respectively cause the said Laws and articles to be put in execution against all such persons as shal offend against the same And we do further charge and command all Officers of the Army to be ayding and assisting to the said Ma<g ref="char:EOLhyphen"/>jor of this city, and other the said Officers and Mini<g ref="char:EOLhyphen"/>sters of Justice therein, for the apprehending of all and every the sald Gffenders which shall, be members of the Army, and for the bringing of them before their proper Officers, whereby they may be severely pu<g ref="char:EOLhyphen"/>nisht according to the said Articles of War: And we do hereby declare our full resolution to punish the neglect and contempt of this our Proclamation with the severest punishment which by Law may be in<g ref="char:EOLhyphen"/>flicted upon the contemners thereof.</p>
+                        <closer>
+                           <signed>Signed, O. CROMWELL.</signed>
+                           <dateline>Given at Dublin-Castle <date>this 23. of August. 1649.</date>
+                           </dateline>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <pb n="6" facs="tcp:165379:5"/>
+            <p>By Letters further from <hi>Ireland</hi> thus:</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>Sir,</salute>
+                  </opener>
+                  <p>The strength of the Marquesse of <hi>Ormond</hi> is very great, his Army grows numerous, and resolved men for a field, being for the most part confident of success, notwith<g ref="char:EOLhyphen"/>standing their late defeat; the conjuction of the Lord <hi>Inchiquin,</hi> the Lord <hi>Ards,</hi> the Earl of <hi>Clanrickard,</hi> and the Earl of <hi>Castlehaven,</hi> are said to be at least twenty thousand horse and foot, our army not above twelve thousand, but resolved to fight them; in the intrim, the Lord Governour <hi>Cromwell</hi> seriously weighing the great necessity of supplies both for men, money, and ammunition, hath sent a letter to the Parliament of <hi>England,</hi> for the speedy sending of them over; for in all probability, there will be work enough for them, by reason of the Countries coming in to the enemies assistance to oppose our Armies further march up in<g ref="char:EOLhyphen"/>to the Country; yet many of the English Inhabitants denies to yeeld obedience to the Marq. of <hi>Ormonds</hi> Summons, notwithstanding the rigor of the L. <hi>Moor,</hi> (Governour of <hi>Tredagh</hi> against them, who hath de<g ref="char:EOLhyphen"/>clared his resolution to fight it out to the last man for <hi>Charles</hi> the I I, rather then to yeeld it to the power &amp; obedience of the Parliament of <hi>England,</hi> but many are of opinion, that upon the Lord Governours approach neer him, he will be of another mind.</p>
+               </body>
+            </floatingText>
+         </div>
+         <div type="imprimatur">
+            <p>Imprimatur,</p>
+            <closer>
+               <signed>T. J.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
